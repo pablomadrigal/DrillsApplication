@@ -1,0 +1,39 @@
+{
+  "NavBar": {
+    "User": "Usuario",
+    "News": "Noticias",
+    "Users": "Usuarios",
+    "Home": "Inicio"
+  },
+  "User": {
+    "Name": "Nombre",
+    "LastName": "Apellido",
+    "Email": "Correo electrónico"
+  },
+  "Table": {
+    "Edit": "Editar",
+    "Create": "Crear",
+    "Delete": "Borrar",
+    "Title": "Lista de usuarios"
+  },
+  "Create": {
+    "Create": "Crear",
+    "Save": "Ahorrar"
+  },
+  "DeleteModal": {
+    "AreYouSure": "estas seguro que quieres borrar a ",
+    "Cancel": "Cancelar",
+    "Delete": "Borrar"
+  },
+  "NesDialog": {
+    "Close": "Cerca",
+    "GoToNews": "Ir al artículo"
+  },
+  "NewsDialog": {
+    "Close": "Cerca",
+    "GoToNews": "Ir al artículo"
+  },
+  "News": {
+    "Search": "Buscar"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "NavBar": {
+    "User": "User",
+    "News": "News",
+    "Users": "Users",
+    "Home": "Home"
+  },
+  "Table": {
+    "Edit": "Edit",
+    "Create": "Create",
+    "Delete": "Delete",
+    "Title": "User list"
+  },
+  "User": {
+    "Email": "Email",
+    "LastName": "Last Name",
+    "Name": "Name"
+  },
+  "Create": {
+    "Create": "Create",
+    "Save": "Save"
+  },
+  "DeleteModal": {
+    "Delete": "Delete",
+    "AreYouSure": "Are you sure you want to delete ",
+    "Cancel": "Cancel"
+  },
+  "NesDialog": {
+    "Close": "Close",
+    "GoToNews": "Go to article"
+  },
+  "NewsDialog": {
+    "GoToNews": "Go to article",
+    "Close": "Close"
+  },
+  "News": {
+    "Search": "Search"
+  }
+}
