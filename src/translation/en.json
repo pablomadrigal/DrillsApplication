@@ -25,10 +25,6 @@
     "AreYouSure": "Are you sure you want to delete ",
     "Cancel": "Cancel"
   },
-  "NesDialog": {
-    "Close": "Close",
-    "GoToNews": "Go to article"
-  },
   "NewsDialog": {
     "GoToNews": "Go to article",
     "Close": "Close"

@@ -18,16 +18,12 @@
   },
   "Create": {
     "Create": "Crear",
-    "Save": "Ahorrar"
+    "Save": "Guardar"
   },
   "DeleteModal": {
     "AreYouSure": "estas seguro que quieres borrar a ",
     "Cancel": "Cancelar",
     "Delete": "Borrar"
-  },
-  "NesDialog": {
-    "Close": "Cerca",
-    "GoToNews": "Ir al artículo"
   },
   "NewsDialog": {
     "Close": "Cerca",
