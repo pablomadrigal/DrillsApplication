@@ -92,6 +92,10 @@ This is an example of how to list things you need to use the software and how to
    ```js
    VITE_NEWS_API_KEY='55993e21f2204991973c12c0e9207103'
    ```
+5. Run the application
+   ```sh
+   yarn dev
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

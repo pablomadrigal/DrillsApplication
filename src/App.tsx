@@ -1,5 +1,5 @@
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 import i18n from "i18next";
@@ -14,7 +14,7 @@ import News from "./pages/News";
 import UsersList from "./pages/UsersList";
 import NewsList from "./pages/News";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Home />,
